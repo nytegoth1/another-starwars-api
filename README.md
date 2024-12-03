@@ -2,7 +2,8 @@
  Another STARWARS API
 
 # PART 1
-# Part 2 coming shortly. A VUE.js Frontend.
+# Part 2 A VUE.js Frontend.
+https://github.com/nytegoth1/g-swars
 # Run
 npm install <br>
 node index.js
