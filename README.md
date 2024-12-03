@@ -2,7 +2,7 @@
  Another STARWARS API
 
 # PART 1
-Part 2 coming shortly. A VUE.js Frontend.
+# Part 2 coming shortly. A VUE.js Frontend.
 # Run
 npm install <br>
 node index.js
