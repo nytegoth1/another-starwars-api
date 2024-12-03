@@ -4,7 +4,7 @@
 # PART 1
 Part 2 coming shortly. A VUE.js Frontend.
 # Run
-npm install
+npm install <br>
 node index.js
 
 # Resources Used
