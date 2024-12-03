@@ -2,4 +2,4 @@
  Another STARWARS API
 
 # Resources Used
-<a href="https://akabab.github.io/starwars-api/api" target="_blank">akabab</a>
+<a href="https://akabab.github.io/starwars-api/api" target="_blank">akabab-JSON</a>
