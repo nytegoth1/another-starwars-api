@@ -7,7 +7,8 @@ The API
 npm install <br>
 node index.js
 # Part 2 A VUE.js Frontend.
-Part 1 required
+Part 1 required <br>
+Part 2 front end to call the API <br>
 https://github.com/nytegoth1/g-swars
 
 # Resources Used
