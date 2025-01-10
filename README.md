@@ -12,4 +12,4 @@ Part 2 front end to call the API <br>
 https://github.com/nytegoth1/g-swars
 
 # Resources Used
-<a href="https://akabab.github.io/starwars-api/api" target="_blank">akabab-JSON</a>
+<a href="https://github.com/akabab/starwars-api" target="_blank">akabab-JSON</a>
